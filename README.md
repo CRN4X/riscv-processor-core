@@ -1,4 +1,4 @@
-# 📚 Learning RISC-V: Building a single core RISC-V processor from Scratch
+## 📚 Learning RISC-V: Building a single core RISC-V processor from Scratch
 
 
 ### Architecture
