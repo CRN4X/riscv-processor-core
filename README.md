@@ -1,7 +1,7 @@
-### 📚 Learning RISC-V: Building a single core RISC-V processor from Scratch
+# 📚 Learning RISC-V: Building a single core RISC-V processor from Scratch
 
 
-## Architecture
+### Architecture
 - Single-cycle execution
 - RV32I instruction set
 - One processing core
