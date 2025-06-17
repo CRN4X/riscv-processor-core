@@ -1,0 +1,8 @@
+(Chapter 3, 4, 5) of Book =>
+COMPUTER ORGANIZATION AND DESIGN | THE HARDWARE/SOFTWARE INTERFACE
+FIFTH EDITION | DAVID A. PATTERSON | JOHN L. HENNESSY
+
+& Corresponding Video for Reference :
+
+YT Video => https://www.youtube.com/watch?v=dh88oe6O0QU
+

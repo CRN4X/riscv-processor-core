@@ -3,6 +3,6 @@
 
 ### Architecture
 - Single-cycle execution
-- RV64I instruction set
+- RV32I instruction set
 - One processing core
 - Learning purpose
