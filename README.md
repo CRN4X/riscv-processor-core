@@ -4,5 +4,5 @@
 ### Architecture
 - Single-cycle execution
 - RV32I instruction set
-- One processing core
+- Single processing core
 - Learning purpose
